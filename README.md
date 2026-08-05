@@ -1,9 +1,16 @@
-WORLD2:
-THE LOST WORLD ARCHIVE
+README.md
 
-Version:
-0.1 Beta
+# WORLD2: THE LOST WORLD ARCHIVE
 
 Lore:
-ANCIENT WORLD FULL OF BLASTERS AND SWORDS.
-CAN YOU MAKE A REMARKS HERE?
+
+Ancient world full of blasters and swords.
+
+A forgotten civilization where magic,
+technology and forgotten weapons coexist.
+
+The original World disappeared.
+
+WORLD2 is a reconstruction.
+
+Version 0.1 Beta.
