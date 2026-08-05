@@ -7,11 +7,3 @@ Version:
 Lore:
 ANCIENT WORLD FULL OF BLASTERS AND SWORDS.
 CAN YOU MAKE A REMARKS HERE?
-
-# WORLD2 PHILOSOPHY
-
-World2 is not a remake.
-
-It is an evolving memory organism.
-
-Each update changes the past.
