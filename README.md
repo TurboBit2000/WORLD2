@@ -22,3 +22,17 @@ World2 is not a map.
 It is a reconstructed memory.
 
 A lost world rebuilt through versions.
+
+## Systems
+
+Player factions:
+- Red Alchemist
+- Blue Gatekeeper
+- Undead faction
+
+World mechanics:
+- Seasons
+- Markets
+- Resource conversion
+- Secret zones
+- Dynamic access
