@@ -15,6 +15,14 @@ WORLD2 is a reconstruction.
 
 Version 0.1 Beta.
 
+## Philosophy
+
+World2 is not a map.
+
+It is a reconstructed memory.
+
+A lost world rebuilt through versions.
+
 ## Devlogs
 
 v.0.0.5_devlog.
