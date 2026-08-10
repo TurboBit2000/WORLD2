@@ -30,6 +30,17 @@ Player factions:
 - Blue Gatekeeper
 - Undead faction
 
+## Development log:
+
+v0.0.6
+
+Added:
+- Dragon balance
+- Fire Scroll
+- Hero economy
+
+Next:
+- Quest system
 World mechanics:
 - Seasons
 - Markets
